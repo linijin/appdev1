@@ -1,0 +1,41 @@
+Tinagsa, Lenie Jane V.
+Bachelor of Science in Information Systems 3
+Application Developments and Emerging Technologies 
+
+
+
+
+5 Emerging technologies that are impacting both the education sector and the IT industry
+
+
+1. Artificial Intelligence (AI)
+* The primary goal of Artificial Intelligence (AI) is to enhance efficiency, accuracy, and decision-making across various sectors by leveraging advanced algorithms and data processing. In education, AI personalizes learning, automates administrative tasks, and provides adaptive tutoring, helping educators create customized lesson plans and identify knowledge gaps to improve student outcomes. In IT, AI automates the generation of reports, such as performance analyses and compliance documents, ensuring accuracy, saving time, and supporting better decision-making. Real-world applications of AI span in maps and navigation, facial detection and recognition, text editors or autocorrect, digital assistants, and e-payments, showcasing its broad impact across industries​. 
+
+2. Virtual and Augmented Reality (VR/AR)
+* Virtual Reality (VR) and Augmented Reality (AR) are revolutionizing education by providing immersive and interactive experiences. VR creates fully digital environments, such as virtual dissections for biology students, while AR overlays digital content onto the real world, like interactive textbooks. Key benefits include enhanced student engagement, easier visualization of complex concepts, and safe hands-on practice that allows for experimentation without real-world risks. In IT, these technologies support product design, virtual prototyping, and collaborative workspaces. Some real-world applications include medical training, where VR is used for surgical simulations, and retail, where AR allows customers to visualize products in their own space.
+
+3. IoT 
+* Internet of Things (IoT) connects devices to the internet, enabling them to gather, share, and analyze data. This connectivity allows for remote monitoring and control, leading to increased efficiency and cost savings. It enhances security in education by integrating smart cameras, ID cards, and access controls, making learning environments safer. IoT solutions like video monitoring detect intruders, while RFID technology tracks student locations and monitors attendance. In IT, IoT plays a crucial role in network management, predictive maintenance, and enhancing cybersecurity by providing real-time data and alerts. Real-world applications of it include healthcare such as smart beds, retail purpose, GPS tracking, and in agricultural sector where it aids in precise fertilisation.
+
+4. Robotics
+* Robotics is a field within engineering and computer science aimed at developing intelligent machines designed to support humans in numerous ways. In the IT infrastructure industry, robotics are frequently used to oversee and control data centre environments, such as servers, storage systems, and network components. Robotics used in education are enhancing the learning experience by fostering stronger social skills, offering personalized learning options, and providing affordable teaching alternatives. Robots can interact one-on-one with students, delivering personalized lessons and support. Some real-world applications include educational robots like Softbank's NAO, domestic robots designed to help with household chores , and medical robots.
+
+5. Cloud Computing
+* Cloud computing provides easy online access to servers, networks, storage, development tools, and apps. One can obtain tools as needed from a cloud provider instead of purchasing and maintaining physical data centers or servers. Due to the pandemic, sector from education and IT has changed its management. Cloud computing was used by schools to enable teachers to interact with pupils who are located far away by offering teaching remotely.  It led to improved virtual learning settings where teachers could communicate with their students more effectively and provide lessons that was accessible from anywhere at any time. The way that departments in the IT industry handle resource management has evolved. The team now manages their IT infrastructure through a cloud service provider, which includes hardware upgrades, software updates, and server maintenance. This allows the team to concentrate more on other key areas like application development and data analysis. MIS, IaaS, SaaS, and PaaS are real-world applications of cloud computing. 
+
+Resources:
+https://www.simplilearn.com/advantages-and-disadvantages-of-artificial-intelligence-article
+https://www.classpoint.io/blog/10-ways-how-ai-is-used-in-education
+https://publish.illinois.edu/stnews123/2024/05/29/3-emerging-technologies-revolutionizing-education-in-2024/
+https://virtualspeech.com/blog/vr-applications
+https://medium.com/@jaroeducationnew2023/top-10-real-world-applications-of-iot-34ec283016b8
+https://webbylab.com/blog/impact-of-iot-technology-on-education/
+https://www.indmall.in/faq/what-is-the-main-goal-of-iot/
+https://www.techtarget.com/whatis/definition/robotics
+https://www.telehouse.net/knowledge-base/the-role-of-ai/
+https://www.orientsoftware.com/blog/robots-in-everyday-life/
+https://blog.teamsatchel.com/cloud-computing-in-schools-and-its-benefits
+https://www.cudocompute.com/blog/the-role-of-cloud-computing-in-the-it-sector
+
+
+
