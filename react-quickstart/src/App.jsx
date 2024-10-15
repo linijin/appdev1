@@ -3,11 +3,12 @@ import MyButton from './MyButton';
 
 function App() {
   return (
-    <>
-      <h1>Welcome to my app</h1>
+    <div>
+      <h1>Counters that update separately</h1>
+      <MyButton /> <br />
       <MyButton />
-    </>
-  )
-  }
+    </div>
+  );
+}
 
 export default App
